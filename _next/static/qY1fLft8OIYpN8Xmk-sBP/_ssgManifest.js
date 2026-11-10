@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcourse\u002F[chapter]\u002F[stage]","\u002Fresources\u002F[section]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
