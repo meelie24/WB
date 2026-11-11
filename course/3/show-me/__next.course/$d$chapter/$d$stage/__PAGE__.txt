@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 2:"static/chunks/309-1901b39b0065314c.js"
 3:"static/chunks/319-e9721732db2782c6.js"
-4:"static/chunks/738-361e7c561d6f43aa.js"
+4:"static/chunks/738-77c16b02c5656151.js"
 5:"static/chunks/app/layout-78899c1e539cd84e.js"
 6:I[7471,["309","$2","319","$3","738","$4","177","$5"],"LearnerProvider"]
 7:I[3824,["309","$2","319","$3","738","$4","177","$5"],"LegacyRoutes"]
@@ -9,21 +9,21 @@
 9:I[6866,[],""]
 a:I[9184,[],""]
 15:"static/chunks/161-f9e71b3b1c895f2c.js"
-16:"static/chunks/934-bdfe3e9bccf56032.js"
+16:"static/chunks/916-ea81758cc33d6bde.js"
 17:"static/chunks/259-3617efd3553ae034.js"
-18:"static/chunks/927-62a54fcd973bfbab.js"
-19:"static/chunks/app/course/%5Bchapter%5D/%5Bstage%5D/page-3092e2e47fb7b6fb.js"
-1a:I[6524,["309","$2","161","$15","934","$16","259","$17","738","$4","927","$18","627","$19"],"SavePosition"]
-1b:I[567,["309","$2","161","$15","934","$16","259","$17","738","$4","927","$18","627","$19"],""]
-1c:I[1196,["309","$2","161","$15","934","$16","259","$17","738","$4","927","$18","627","$19"],"LessonStepper"]
-1d:I[4272,["309","$2","161","$15","934","$16","259","$17","738","$4","927","$18","627","$19"],"ReadingPosition"]
+18:"static/chunks/685-c3db8a9bda1f7400.js"
+19:"static/chunks/app/course/%5Bchapter%5D/%5Bstage%5D/page-b83aa4bb8bb9e03a.js"
+1a:I[6524,["309","$2","161","$15","916","$16","259","$17","738","$4","685","$18","627","$19"],"SavePosition"]
+1b:I[567,["309","$2","161","$15","916","$16","259","$17","738","$4","685","$18","627","$19"],""]
+1c:I[1196,["309","$2","161","$15","916","$16","259","$17","738","$4","685","$18","627","$19"],"LessonStepper"]
+1d:I[4272,["309","$2","161","$15","916","$16","259","$17","738","$4","685","$18","627","$19"],"ReadingPosition"]
 26:"ViewportBoundary"
 27:I[6059,[],"$26"]
 28:"MetadataBoundary"
 29:I[6059,[],"$28"]
 2a:"$Sreact.suspense"
 :HL["/WB/_next/static/css/1cd9c99462b83f23.css","style"]
-:HL["/WB/_next/static/css/3f51a3e1d8e08101.css","style"]
+:HL["/WB/_next/static/css/06b7ca4149ba4d10.css","style"]
 c:X
 f:X
 f:C
@@ -31,9 +31,9 @@ f:C
 12:[["children",{"s":{"n":"stage","t":"d","k":"show-me","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@13","v":"$f","s":"$c"},"c":"$Q14"}]]
 10:[["children",{"s":{"n":"chapter","t":"d","k":"3","s":[]},"h":196704,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@11","v":"$f","s":"$c"},"c":"$Q12"}]]
 d:[["children",{"s":"course","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
-0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/WB/_next/static/css/1cd9c99462b83f23.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/WB/_next/static/css/3f51a3e1d8e08101.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L29",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"World Bank Tool Guide · Learning workspace"}],["$","meta","1",{"name":"description","content":"An independent beginner learning companion. Hands-on practice, source guide and local learning records."}]]}]}],null]}],null]}],"p":"$@2b","v":null,"s":"$c"}},"a":"$@2c","u":"$@2d","b":"hjxNKNNCkWedCunOkph7n"}
-2e:I[6524,["309","$2","161","$15","934","$16","259","$17","738","$4","927","$18","627","$19"],"BranchExample"]
-2f:I[6468,["309","$2","161","$15","934","$16","259","$17","738","$4","927","$18","627","$19"],"LessonRoute"]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/WB/_next/static/css/1cd9c99462b83f23.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/WB/_next/static/css/06b7ca4149ba4d10.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L29",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"World Bank Tool Guide · Learning workspace"}],["$","meta","1",{"name":"description","content":"An independent beginner learning companion. Hands-on practice, source guide and local learning records."}]]}]}],null]}],null]}],"p":"$@2b","v":null,"s":"$c"}},"a":"$@2c","u":"$@2d","b":"KqgBZDDFa5vwsf6HqTnou"}
+2e:I[6524,["309","$2","161","$15","916","$16","259","$17","738","$4","685","$18","627","$19"],"BranchExample"]
+2f:I[6468,["309","$2","161","$15","916","$16","259","$17","738","$4","685","$18","627","$19"],"LessonRoute"]
 30:I[6059,[],"OutletBoundary"]
 1e:["$","div",null,{"className":"table-scroll","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Part"}],["$","th",null,{"children":"What it means here"}]]}]}],["$","tbody",null,{"children":[["$","tr","Start: identification",{"children":[["$","th","0",{"scope":"row","children":"Start: identification"}],["$","td","1",{"children":"Reporting year and “Have you served any PEPs in the last fiscal year?”"}]]}],["$","tr","Page: PEP details",{"children":[["$","th","0",{"scope":"row","children":"Page: PEP details"}],["$","td","1",{"children":"Number of PEP customers and relevant detail"}]]}],["$","tr","End: completion",{"children":[["$","th","0",{"scope":"row","children":"End: completion"}],["$","td","1",{"children":"Final responses; Next Page = None"}]]}]]}]]}]}]
 1f:["$","section","See both answers",{"className":"worked-example","children":[["$","span",null,{"className":"example-step","children":"02"}],["$","h2",null,{"children":"See both answers"}],["$","p",null,{"children":"PEP is the guide’s example of a politically exposed person. We are demonstrating routing, not teaching a full legal definition or rating every PEP as criminal. Select either answer below to see its explained path. Neither choice is a test."}],null,null,null,["$","$L2e",null,{}]]}]

@@ -1,7 +1,7 @@
 :HL["/WB/_next/static/css/1cd9c99462b83f23.css","style"]
-:HL["/WB/_next/static/css/3f51a3e1d8e08101.css","style"]
+:HL["/WB/_next/static/css/06b7ca4149ba4d10.css","style"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"stage","t":"d","k":"show-me","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"chapter","t":"d","k":"3","s":[]},"h":196704,"c":"$Q3"}]]
 1:[["children",{"s":"course","h":131168,"c":"$Q2"}]]
-0:{"b":"hjxNKNNCkWedCunOkph7n","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"KqgBZDDFa5vwsf6HqTnou","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
