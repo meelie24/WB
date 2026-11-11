@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[570],{2570:(e,t,l)=>{l.r(t),l.d(t,{default:()=>i});var n=l(5060),s=l(7744),u=l(1736);function i({onSunlight:e}){let{sunlight:t}=(0,s._5)("Office lighting",{sunlight:{value:2.5,min:.5,max:4,step:.1}});return(0,u.useEffect)(()=>e(t),[t,e]),(0,n.jsx)(s.XA,{titleBar:{title:"Development scene controls"}})}}}]);

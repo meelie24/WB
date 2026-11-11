@@ -1,33 +1,36 @@
 1:"$Sreact.fragment"
-2:"static/chunks/309-1901b39b0065314c.js"
-3:"static/chunks/319-e9721732db2782c6.js"
-4:"static/chunks/738-0becf879b6ef6f83.js"
-5:"static/chunks/app/layout-78899c1e539cd84e.js"
-6:I[7471,["309","$2","319","$3","738","$4","177","$5"],"LearnerProvider"]
-7:I[3824,["309","$2","319","$3","738","$4","177","$5"],"LegacyRoutes"]
-8:I[7457,["309","$2","319","$3","738","$4","177","$5"],"AppShell"]
-9:I[6866,[],""]
-a:I[9184,[],""]
-10:I[6059,[],"OutletBoundary"]
-11:"$Sreact.suspense"
-13:"ViewportBoundary"
-14:I[6059,[],"$13"]
-16:"MetadataBoundary"
-17:I[6059,[],"$16"]
-19:I[4810,[],"default",1]
-:HL["/WB/_next/static/css/1cd9c99462b83f23.css","style"]
-:HL["/WB/_next/static/css/06b7ca4149ba4d10.css","style"]
-c:X
-e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
-d:[["children",{"s":{"n":"section","t":"d","k":"checklist","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qe"}]]
-b:[["children",{"s":"resources","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
-0:{"P":null,"c":["","resources","checklist",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/WB/_next/static/css/1cd9c99462b83f23.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/WB/_next/static/css/06b7ca4149ba4d10.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"qWAGuQ0Jmxo6zCPf8hVzH"}
-1a:"static/chunks/916-ea81758cc33d6bde.js"
-1b:"static/chunks/685-c3db8a9bda1f7400.js"
-1c:"static/chunks/app/resources/%5Bsection%5D/page-b46e836ab452304c.js"
-1d:I[9944,["309","$2","916","$1a","738","$4","685","$1b","592","$1c"],"ResourceHub"]
-c:C
-f:["$","$L1d",null,{"section":"checklist"}]
-15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-12:null
-18:[["$","title","0",{"children":"World Bank Tool Guide · Learning workspace"}],["$","meta","1",{"name":"description","content":"An independent beginner learning companion. Hands-on practice, source guide and local learning records."}]]
+2:"static/chunks/433-1051a10046736ffe.js"
+3:"static/chunks/223-9f96ff6ba34f0314.js"
+4:"static/chunks/459-d96f30f936054a9b.js"
+5:"static/chunks/438-9ca21d2eb552d770.js"
+6:"static/chunks/738-14975fd97a8df41b.js"
+7:"static/chunks/app/layout-ea29fb2ef2cd45d8.js"
+8:I[7471,["433","$2","223","$3","459","$4","438","$5","738","$6","177","$7"],"LearnerProvider"]
+9:I[3824,["433","$2","223","$3","459","$4","438","$5","738","$6","177","$7"],"LegacyRoutes"]
+a:I[9728,["433","$2","223","$3","459","$4","438","$5","738","$6","177","$7"],"AppShell"]
+b:I[6866,[],""]
+c:I[9184,[],""]
+12:I[6059,[],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[6059,[],"$15"]
+18:"MetadataBoundary"
+19:I[6059,[],"$18"]
+1b:I[4810,[],"default",1]
+:HL["/WB/_next/static/css/cd8281bb7e6e1724.css","style"]
+:HL["/WB/_next/static/css/a1a1a10ce2d6c905.css","style"]
+e:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":false,"v":null}}]]
+f:[["children",{"s":{"n":"section","t":"d","k":"checklist","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$e"},"c":"$Q10"}]]
+d:[["children",{"s":"resources","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$e"},"c":"$Qf"}]]
+0:{"P":null,"c":["","resources","checklist",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/WB/_next/static/css/cd8281bb7e6e1724.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/WB/_next/static/css/a1a1a10ce2d6c905.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L8",null,{"children":[["$","$L9",null,{}],["$","$La",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]}]]}],"p":false,"v":null},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":"$L1a"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1b",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"67ubsmtG2zaak2Ro9lPkB"}
+1c:"static/chunks/408-0b8716b7ceb6ba99.js"
+1d:"static/chunks/685-17b4e0847741e155.js"
+1e:"static/chunks/app/resources/%5Bsection%5D/page-5dd477667fb55244.js"
+1f:I[9944,["433","$2","408","$1c","738","$6","685","$1d","592","$1e"],"ResourceHub"]
+e:C
+11:["$","$L1f",null,{"section":"checklist"}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#452360"}]]
+20:I[4146,[],"IconMark"]
+14:null
+1a:[["$","title","0",{"children":"Final checklist · World Bank Tool Guide"}],["$","meta","1",{"name":"description","content":"An independent beginner learning companion. Hands-on practice, source guide and local learning records."}],["$","link","2",{"rel":"icon","href":"/WB/icon.svg?4023511c8615de44","type":"image/svg+xml","sizes":"any"}],["$","$L20","3",{}]]
